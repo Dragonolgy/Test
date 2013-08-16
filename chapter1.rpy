@@ -1,4 +1,4 @@
-label chapter1:
+﻿label chapter1:
     $ kirinoname = "Kirino"
     
     scene black
@@ -64,6 +64,8 @@ label chapter1:
     "...faceplant.  Wonderful." with Shake((0, 0, 0, 0), 0.3, dist=30) 
     
     "Despite being surprisingly informative, it turns out that reading the manual was no substitute for learning how to walk in the virtual world."
+
+    "Pushing myself up.  I started to try again."
     
     show kirino avatar annoyed at left
     
